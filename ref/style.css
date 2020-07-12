@@ -1,3 +1,8 @@
+* {
+    color : #404040;
+    font-family : "Consolas";
+}
+
 body {
     background-color : #F0F0F0
 }
@@ -6,5 +11,32 @@ h1 {
     color : #404040;
     font-family : "Consolas";
     font-size : 40px;
-    text-align : center
+    text-align : center;
+}
+
+input {
+    color : #404040;
+    font-family : "Meiryo UI";
+    margin: 2px;
+}
+
+div.top {
+    text-align : center; 
+}
+
+h3 {
+    text-align : left;
+    font-size : 17px;
+    margin-left: 50px;
+}
+
+p {
+    font-size : 15px;
+}
+
+#msgdoc {
+    color : #909090;
+    font-family: "游ゴシック";
+    text-align: left;
+    margin-left: 70px;
 }
