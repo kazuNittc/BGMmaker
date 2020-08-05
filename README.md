@@ -2,6 +2,8 @@
 BGM maker はランダムに BGM を生成します。  
 play ボタンを押してすぐに再生、作業に取り掛かることができます。       
 
+[デモ](https://kazunittc.github.io/BGMmaker/)
+
 ### 使い方
 `play` ボタンで BGM を再生します。  
 `Create new loop` ボタンを押すと別のコード進行の BGM が生成され、再生されます。  
